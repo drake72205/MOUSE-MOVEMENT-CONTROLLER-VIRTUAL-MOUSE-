@@ -1,0 +1,8 @@
+opencv-python     
+numpy             
+autopy             
+pyautogui         
+streamlit        
+comtypes           
+pycaw   
+mediapipe  
